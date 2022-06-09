@@ -10,7 +10,7 @@ Start your IDE and open the project folder.
 Select the main module inside the greed-game folder and click the "run" button.
 
 ## Project Structure 
-The project files and folders are organized as follows:
+The project files and folders are organized as follows:-
 
 root (project root folder) 
     +-- greed-game

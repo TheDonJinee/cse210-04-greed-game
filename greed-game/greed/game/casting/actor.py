@@ -28,7 +28,7 @@ class Actor:
     def get_color(self):
         """Gets the actor's color as a tuple of three ints (r, g, b).
         
-        Returns:
+        Returns:-
             Color: The actor's text color.
         """
         return self._color

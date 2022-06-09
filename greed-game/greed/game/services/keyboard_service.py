@@ -21,7 +21,7 @@ class KeyboardService:
 
     def get_direction(self):
         """Gets the selected direction based on the currently pressed keys.
-        Returns:
+        Returns:-
             Point: The selected direction.
         """
         dx = 0

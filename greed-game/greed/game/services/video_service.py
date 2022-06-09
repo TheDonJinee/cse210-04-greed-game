@@ -34,7 +34,7 @@ class VideoService:
     
     def draw_actor(self, actor):
         """Draws the given actor's text on the screen.
-        Args:
+        Args:-
             actor (Actor): The actor to draw.
         """ 
         text = actor.get_text()
