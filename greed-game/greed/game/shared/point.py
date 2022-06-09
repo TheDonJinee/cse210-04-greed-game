@@ -31,7 +31,7 @@ class Point:
     def equals(self, other):
         """Whether or not this Point is equal to the given one.
         Args:
-            other (Point): The Point to compare.
+            other (Point): The Point to compare
         Returns: 
             boolean: True if both x and y are equal; false if otherwise.
         """

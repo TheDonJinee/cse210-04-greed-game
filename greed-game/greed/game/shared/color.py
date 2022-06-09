@@ -15,7 +15,7 @@ class Color:
         
         Args:
             red (int): A red value.
-            green (int): A green value.
+            green (int): A green value
             blue (int): A blue value.
             alpha (int): An alpha or opacity.
         """

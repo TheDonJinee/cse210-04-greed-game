@@ -20,7 +20,7 @@ class Director:
         
     def start_game(self, cast):
         """Starts the game using the given cast. Runs the main game loop.
-        Args:
+        Args:-
             cast (Cast): The cast of actors.
         """
         self._video_service.open_window()

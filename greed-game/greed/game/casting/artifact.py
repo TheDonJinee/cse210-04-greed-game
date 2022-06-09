@@ -14,7 +14,7 @@ class Artifact(Actor):
     def get_add_point(self):
         """Adds the score by 1
         
-        Returns:
+        Returns:-
             string: The message.
         """
         self._score += 1
